@@ -25,6 +25,9 @@
 </template>
 
 <script>
+
+<a href="https://clearbit.com">Logos provided by Clearbit</a>
+
 export default {
   data() {
     return {
